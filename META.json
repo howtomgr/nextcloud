@@ -1,0 +1,67 @@
+{
+  "category": "file-sharing",
+  "created_date": "2025-09-15T22:48:58.382371",
+  "default_ports": [
+    80,
+    443,
+    3478
+  ],
+  "dependencies": [
+    "php",
+    "mysql",
+    "apache",
+    "php-gd",
+    "php-json"
+  ],
+  "description": "nextcloud is a free and open-source self-hosted file sync and collaboration platform. Nextcloud provides file hosting, sync, and collaboration features, serving as a privacy-focused alternative to Google Drive, Dropbox, or Microsoft OneDrive",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/file-sharing/nextcloud",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/file-sharing/nextcloud",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:58.382398",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "nextcloud",
+  "repository_url": "https://github.com/howtomgr/nextcloud",
+  "spec_version": "2.0",
+  "subcategory": "file-sharing",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "file-sharing",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "nextcloud Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/file-sharing/nextcloud"
+}
